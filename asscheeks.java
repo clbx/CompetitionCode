@@ -1,3 +1,12 @@
+/*
+*
+* This file is called Asscheeks because that was the state of mind we were in when we submitted
+* this problem 8 times with 20 minutes left on the clock
+*
+* i hope someone enjoys this steaming pile of garbage
+*/
+
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
